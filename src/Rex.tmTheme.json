@@ -1,0 +1,332 @@
+{
+  "author": "Pierce Moore <me@prex.io>",
+  "colorSpaceName": "sRGB",
+  "gutterSettings": {
+    "selectionForeground": "#a7adba",
+    "background": "#25222A",
+    "foreground": "#25222A",
+    "selectionBackground": "#4f5b66",
+    "divider": "#343d46"
+  },
+  "uuid": "59c1e2f2-7b41-46f9-91f2-1b4c6f5866f7",
+  "settings": [{
+    "settings": {
+      "selection": "#4f5b66",
+      "lineHighlight": "{{ wet-asphalt }}",
+      "background": "{{ midnight-blue-dark }}",
+      "foreground": "{{ silver }}",
+      "invisibles": "#65737e",
+      "caret": "{{ clouds }}"
+    }
+  },
+  {
+    "scope": "variable.parameter.function",
+    "settings": {
+      "foreground": "{{ amethyst }}"
+    },
+    "name": "Text"
+  },
+  {
+    "scope": "comment, punctuation.definition.comment",
+    "settings": {
+      "foreground": "{{ asbestos }}"
+    },
+    "name": "Comments"
+  },
+  {
+    "scope": "punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "{{ peter-river }}"
+    },
+    "name": "Punctuation"
+  },
+  {
+    "scope": "none",
+    "settings": {
+      "foreground": "#c0c5ce"
+    },
+    "name": "Delimiters"
+  },
+  {
+    "scope": "keyword.operator",
+    "settings": {
+      "foreground": "{{ peter-river }}"
+    },
+    "name": "Operators"
+  },
+  {
+    "scope": "keyword",
+    "settings": {
+      "foreground": "{{ carrot }}"
+    },
+    "name": "Keywords"
+  },
+  {
+    "scope": "variable",
+    "settings": {
+      "foreground": "{{ concrete }}"
+    },
+    "name": "Variables"
+  },
+  {
+    "scope": "entity.name.function, meta.require, support.function.any-method",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "{{ alizarin }}"
+    },
+    "name": "Functions"
+  },
+  {
+    "scope": "support.class, entity.name.class, entity.name.type.class",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Classes"
+  },
+  {
+    "scope": "meta.class",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "#eff1f5"
+    },
+    "name": "Classes"
+  },
+  {
+    "scope": "keyword.other.special-method",
+    "settings": {
+      "foreground": "#8fa1b3"
+    },
+    "name": "Methods"
+  },
+  {
+    "scope": "storage",
+    "settings": {
+      "foreground": "{{ peter-river }}"
+    },
+    "name": "Storage"
+  },
+  {
+    "scope": "support.function",  
+    "settings": {
+      "foreground": "{{ pomegranate }}"
+    },
+    "name": "Support"
+  },
+  {
+    "scope": "string, constant.other.symbol, entity.other.inherited-class",
+    "settings": {
+      "fontStyle": "",
+      "foreground": "#69B7A6"
+    },
+    "name": "Strings, Inherited Class"
+  },
+  {
+    "scope": "constant.numeric",
+    "settings": {
+      "fontStyle": "italic",
+      "foreground": "{{ green-sea }}"
+    },
+    "name": "Integers"
+  },
+  {
+    "scope": "none",
+    "settings": {
+      "fontStyle": "italic",
+      "foreground": "{{ green-sea }}"
+    },
+    "name": "Floats"
+  },
+  {
+    "scope": "none",
+    "settings": {
+      "foreground": "{{ orange }}"
+    },
+    "name": "Boolean"
+  },
+  {
+    "scope": "constant",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "{{ peter-river }}"
+    },
+    "name": "Constants"
+  },
+  {
+    "scope": "entity.name.tag",
+    "settings": {
+      "foreground": "{{ asbestos }}"
+    },
+    "name": "Tags"
+  },
+  {
+    "scope": "entity.other.attribute-name",
+    "settings": {
+      "foreground": "{{ silver }}"
+    },
+    "name": "Attributes"
+  },
+  {
+    "scope": "entity.other.attribute-name.id, punctuation.definition.entity",
+    "settings": {
+      "foreground": "#8fa1b3"
+    },
+    "name": "Attribute IDs"
+  },
+  {
+    "scope": "meta.selector",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Selector"
+  },
+  {
+    "scope": "none",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Values"
+  },
+  {
+    "scope": "markup.heading punctuation.definition.heading, entity.name.section",
+    "settings": {
+      "fontStyle": "",
+      "foreground": "#8fa1b3"
+    },
+    "name": "Headings"
+  },
+  {
+    "scope": "keyword.other.unit",
+    "settings": {
+      "foreground": "{{ emerald }}"
+    },
+    "name": "Units"
+  },
+  {
+    "scope": "markup.bold, punctuation.definition.bold",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "#CDC6D8"
+    },
+    "name": "Bold"
+  },
+  {
+    "scope": "markup.italic, punctuation.definition.italic",
+    "settings": {
+      "fontStyle": "italic",
+      "foreground": "#CDC6D8"
+    },
+    "name": "Italic"
+  },
+  {
+    "scope": "markup.raw.inline",
+    "settings": {
+      "foreground": "#a3be8c"
+    },
+    "name": "Code"
+  },
+  {
+    "scope": "string.other.link",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Link Text"
+  },
+  {
+    "scope": "meta.link",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Link Url"
+  },
+  {
+    "scope": "markup.list",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Lists"
+  },
+  {
+    "scope": "markup.quote",
+    "settings": {
+      "foreground": "#d08770"
+    },
+    "name": "Quotes"
+  },
+  {
+    "scope": "meta.separator",
+    "settings": {
+      "background": "#4f5b66",
+      "foreground": "#c0c5ce"
+    },
+    "name": "Separator"
+  },
+  {
+    "scope": "markup.inserted",
+    "settings": {
+      "foreground": "#a3be8c"
+    },
+    "name": "Inserted"
+  },
+  {
+    "scope": "markup.deleted",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Deleted"
+  },
+  {
+    "scope": "markup.changed",
+    "settings": {
+      "foreground": "#CDC6D8"
+    },
+    "name": "Changed"
+  },
+  {
+    "scope": "constant.other.color",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "{{ clouds }}"
+    },
+    "name": "Colors"
+  },
+  {
+    "scope": "string.regexp",
+    "settings": {
+      "foreground": "#6A6474"
+    },
+    "name": "Regular Expressions"
+  },
+  {
+    "scope": "constant.character.escape",
+    "settings": {
+      "foreground": "#6A6474"
+    },
+    "name": "Escape Characters"
+  },
+  {
+    "scope": "punctuation.section.embedded, variable.interpolation",
+    "settings": {
+      "foreground": "#ab7967"
+    },
+    "name": "Embedded"
+  },
+  {
+    "scope": "punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end",
+    "settings": {
+      "fontStyle": "bold",
+      "foreground": "{{ silver }}"
+    },
+    "name": "Tag start\/end"
+  },
+  {
+    "scope": "invalid.illegal",
+    "settings": {
+      "background": "#CDC6D8",
+      "foreground": "#2b303b"
+    },
+    "name": "Invalid"
+  }],
+  "name": "Rex",
+  "semanticClass": "Rex"
+}

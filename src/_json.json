@@ -1,0 +1,140 @@
+{
+  "settings": [
+    {
+      "name": "JSON Keys - Level 7",
+      "scope": "source.json meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Keys - Level 6",
+      "scope": "source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Keys - Level 5",
+      "scope": "source.json meta meta meta meta meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Keys - Level 4",
+      "scope": "source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Keys - Level 3",
+      "scope": "source.json meta meta meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Keys - Level 2",
+      "scope": "source.json meta meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Keys - Level 1",
+      "scope": "source.json meta.structure.dictionary.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-keys }}",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "JSON Values - Level 7",
+      "scope": "source.json meta meta meta meta meta meta meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Values - Level 6",
+      "scope": "source.json meta meta meta meta meta meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Values - Level 5",
+      "scope": "source.json meta meta meta meta meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Values - Level 4",
+      "scope": "source.json meta meta meta meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Values - Level 3",
+      "scope": "source.json meta meta meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Values - Level 2",
+      "scope": "source.json meta meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Values - Level 1",
+      "scope": "source.json meta.structure.dictionary.value.json string.quoted.double.json",
+      "settings": {
+        "foreground": "{{ json-values }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Quotes",
+      "scope": "source.json punctuation.definition.string.end.json, source.json punctuation.definition.string.begin.json",
+      "settings": {
+        "foreground": "{{ json-punctuation }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON { } [ ]",
+      "scope": "punctuation.definition.dictionary.begin.json, punctuation.definition.dictionary.end.json, punctuation.definition.array.begin.json, punctuation.definition.array.end.json",
+      "settings": {
+        "foreground": "{{ json-punctuation }}",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "JSON Value",
+      "scope": "punctuation.separator.dictionary.pair.json, punctuation.separator.array.json",
+      "settings": {
+        "foreground": "{{ json-punctuation }}",
+        "fontStyle": "normal"
+      }
+    }
+  ]
+}

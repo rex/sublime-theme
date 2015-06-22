@@ -1,0 +1,58 @@
+{
+  "settings": [
+    {
+      "scope": "source.ruby keyword.other.special-method.ruby",
+      "settings": {
+        "foreground": "{{ peter-river-light }}",
+        "fontStyle": "bold"
+      },
+      "name": "Ruby - Special Methods"
+    },
+    {
+      "scope": "source.ruby constant.other.symbol.ruby",
+      "settings": {
+        "foreground": "{{ clouds }}"
+      },
+      "name": "Ruby Symbol"
+    },
+    {
+      "scope": "source.ruby meta.function.method.with-arguments.ruby variable.parameter.function.ruby",
+      "settings": {
+        "foreground": "{{ default-text }}"
+      },
+      "name": "Ruby - Function Arguments"
+    },
+    {
+      "scope": "source.ruby keyword.control.def.ruby, source.ruby keyword.control.ruby",
+      "settings": {
+        "foreground": "{{ peter-river-dark }}",
+        "fontStyle": "bold"
+      },
+      "name": "Ruby - Function Arguments"
+    },
+    {
+      "scope": "source.ruby entity.name.function.ruby",
+      "settings": {
+        "foreground": "{{ peter-river-light }}",
+        "fontStyle": "normal"
+      },
+      "name": "Ruby - Function Arguments"
+    },
+    {
+      "scope": "source.ruby support.class.ruby",
+      "settings": {
+        "foreground": "{{ alizarin-light }}",
+        "fontStyle": "bold"
+      },
+      "name": "Ruby - Function Arguments"
+    },
+    {
+      "scope": "source.ruby variable.other.readwrite.instance.ruby",
+      "settings": {
+        "foreground": "{{ default-text }}",
+        "fontStyle": "normal"
+      },
+      "name": "Ruby - Function Arguments"
+    }
+  ]
+}

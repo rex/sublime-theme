@@ -1,0 +1,110 @@
+{
+  "outfile": "Rex.tmTheme",
+  "colors": {
+    "turquoise": "#1abc9c",
+    "turquoise-light": "#28e1bd",
+    "turquoise-dark": "#148f77",
+    "turquoise-srgb": "[26,188,156]",
+
+    "green-sea": "#16a085",
+    "green-sea-light": "#1ccdaa",
+    "green-sea-dark": "#107360",
+    "green-sea-srgb": "[22,160,133]",
+
+    "emerald": "#2ecc71",
+    "emerald-light": "#54d98c",
+    "emerald-dark": "#25a25a",
+    "emerald-srgb": "[46,204,113]",
+
+    "nephritis": "#27ae60",
+    "nephritis-light": "#36d278",
+    "nephritis-dark": "#1e8449",
+    "nephritis-srgb": "[39,174,96]",
+    
+    "peter-river": "#3498db",
+    "peter-river-light": "#5faee3",
+    "peter-river-dark": "#217dbb",
+    "peter-river-srgb": "[52,152,219]",
+    
+    "belize-hole": "#2980b9",
+    "belize-hole-light": "#409ad5",
+    "belize-hole-dark": "#20638f",
+    "belize-hole-srgb": "[41,128,185]",
+    
+    "amethyst": "#9b59b6",
+    "amethyst-light": "#b07cc6",
+    "amethyst-dark": "#804399",
+    "amethyst-srgb": "[155,89,182]",
+    
+    "wisteria": "#8e44ad",
+    "wisteria-light": "#a563c1",
+    "wisteria-dark": "#703688",
+    "wisteria-srgb": "[142,68,173]",
+    
+    "wet-asphalt": "#34495e",
+    "wet-asphalt-light": "#46627f",
+    "wet-asphalt-dark": "#222f3d",
+    "wet-asphalt-srgb": "[52,73,94]",
+    
+    "midnight-blue": "#2c3e50",
+    "midnight-blue-light": "#3e5771",
+    "midnight-blue-dark": "#1a242f",
+    "midnight-blue-srgb": "[44,62,80]",
+    
+    "sunflower": "#f1c40f",
+    "sunflower-light": "#f4d03f",
+    "sunflower-dark": "#c29d0b",
+    "sunflower-srgb": "[241,196,15]",
+    
+    "orange": "#f39c12",
+    "orange-light": "#f5b043",
+    "orange-dark": "#c87f0a",
+    "orange-srgb": "[243,156,18]",
+    
+    "carrot": "#e67e22",
+    "carrot-light": "#eb9950",
+    "carrot-dark": "#bf6516",
+    "carrot-srgb": "[230,126,34]",
+    
+    "pumpkin": "#d35400",
+    "pumpkin-light": "#ff6a07",
+    "pumpkin-dark": "#a04000",
+    "pumpkin-srgb": "[211,84,0]",
+    
+    "alizarin": "#e74c3c",
+    "alizarin-light": "#ed7669",
+    "alizarin-dark": "#d62c1a",
+    "alizarin-srgb": "[231,76,60]",
+    
+    "pomegranate": "#c0392b",
+    "pomegranate-srgb": "[192,57,43]",
+    "pomegranate-light": "#d65548",
+    "pomegranate-dark": "#962d22",
+    
+    "clouds": "#ecf0f1",
+    "clouds-light": " white",
+    "clouds-dark": "#cfd9db",
+    "clouds-srgb": "[236,240,241",
+    
+    "silver": "#bdc3c7",
+    "silver-light": "#d9dcde",
+    "silver-dark": "#a1aab0",
+    "silver-srgb": "[189,195,199",
+    
+    "concrete": "#95a5a6",
+    "concrete-light": "#b1bdbd",
+    "concrete-dark": "#798d8f",
+    "concrete-srgb": "[149,165,166",
+    
+    "asbestos": "#7f8c8d",
+    "asbestos-light": "#9aa4a5",
+    "asbestos-dark": "#667273",
+    "asbestos-srgb": "[127,140,141",
+
+    "default-text": "#a1aab0",
+
+    "json-keys": "#5faee3",
+    "json-values": "#ecf0f1",
+    "json-punctuation": "#2980b9"
+  }
+}
